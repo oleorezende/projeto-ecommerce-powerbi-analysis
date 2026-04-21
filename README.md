@@ -137,7 +137,10 @@ Com base na análise, é possível:
 
 ## 📸 Preview
 
-> (Adicionar prints do dashboard aqui)
+<img width="1835" height="1063" alt="1" src="https://github.com/user-attachments/assets/f91a6c8e-fd81-4f12-a7e8-442c2c4bfaf2" />
+<img width="1835" height="1061" alt="2" src="https://github.com/user-attachments/assets/73417cb3-68d4-42ad-967c-0a0fa4292cac" />
+<img width="1833" height="1057" alt="3" src="https://github.com/user-attachments/assets/47c0a163-5d5d-40d7-a05a-25c172f43e44" />
+<img width="1835" height="1060" alt="4" src="https://github.com/user-attachments/assets/e09dbee7-7196-4d84-b90f-9a510740138b" />
 
 ---
 
